@@ -37,5 +37,5 @@ def visit_website(url):
         driver.quit()
 
 # ব্যবহার করার নিয়ম
-target_url = "https://your-website-link.com"
+target_url = https://techdevtool.blogspot.com/
 # visit_website(target_url)
